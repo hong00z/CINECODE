@@ -5,7 +5,7 @@
 
 ## 팀원
 #### 김민주 : (FE&BE) MovieDetail, Review CRUD, Navbar <br>
-#### 최연지 : (FE&BE) Login, Signup, Profile, Home, Search, 음성인식
+#### 최연지 : (FE&BE) Login, Signup, Profile, Home, Search, Speech Recognition
 
 ---
 
