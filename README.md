@@ -4,12 +4,13 @@
 2024.11.17 ~ 2024.11.27
 
 ## 팀원
-#### 김민주 : (FE&BE) MovieDetail, Review CRUD, Navbar <br>
+#### 김민주 : (DB) 영화, 장르 데이터 로드 / (FE&BE) MovieDetail, Review CRUD, Navbar, Home <br>
 #### 최연지 : (FE&BE) Login, Signup, Profile, Home, Search, Speech Recognition
 
 ---
 
 ## 개발 환경
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 - Python 3.11.X
 - Django 4.2.X
 - Vue 3.X
@@ -18,6 +19,9 @@
 
 ## ERD
 ![ERD](./images/ERD.png)
+
+## 컴포넌트 구조도
+![Component](./PPT/Component.png)
 
 ---
 
@@ -111,7 +115,7 @@
 >[민주]
 >- [X] SearchView - URL 쿼리 처리 재수정
 >- [X] ReviewUDCard - 프론트, 백엔드
->      
+>
 >[연지]
 >- [X] HomeView - 검색창 작업
 >- [X] HomeView - 검색창 css 작업
@@ -121,7 +125,7 @@
 >- [X] DB - 초기 데이터 작업
 >- [X] MovieDetail - 예고편 링크 수정
 >- [X] HomeView - MovieCard css 작업 (정렬 수정)
->      
+>
 >[연지]
 >- [X] DB - 초기 데이터 작업
 >- [X] ReviewCard - css 작업
