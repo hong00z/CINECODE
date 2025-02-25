@@ -5,7 +5,7 @@
 
 ## 팀원
 #### 김민주 : (FE&BE) MovieDetail, Review CRUD, Navbar <br>
-#### 최연지 : (FE&BE) Login, Signup, Profile, Home, Search
+#### 최연지 : (FE&BE) Login, Signup, Profile, Home, Search, Speech Recognition
 
 ---
 
@@ -67,6 +67,7 @@
 >[민주]
 >- [X] HomeView 마무리
 >- [X] Navbar - 프론트, 백엔드
+>
 >[연지]
 >- [X] LoginView - 로그인 구현
 >- [X] Navbar - 메인화면에 로그인된거 띄우기
@@ -76,6 +77,7 @@
 >- [X] MovieDetail - 영화 정보, 예고편 프론트
 >- [X] MovieDetail - 영화 정보, 예고편 백엔드
 >- [X] DB - fixtures 데이터 수정
+>      
 >[연지]
 >- [X] UpdateView - 회원정보 수정
 >- [X] ProfileVIew - 프로필 프론트,백앤드
@@ -84,6 +86,7 @@
 >[민주]
 >- [X] MovieDetail - 찜하기, 시청 상태 프론트
 >- [X] MovieDetail - 찜하기, 시청 상태 백엔드
+>      
 >[연지]
 >- [X] 음성 API 끌고 오기, 연결
 >- [X] UpdateView - 프로필 사진 수정
@@ -91,6 +94,7 @@
 ### 1123(토)
 >[민주]
 >- [X] SearchView - URL 쿼리 처리
+>      
 >[연지]
 >- [X] 음성인식 실시간으로 작성, 스크롤
 
@@ -98,6 +102,7 @@
 >[민주]
 >- [X] ReviewReadCard - 프론트, 백엔드
 >- [X] ReviewCreateCard - 프론트, 백엔드
+>      
 >[연지]
 >- [X] SearchView - 음성인식 오류 해결
 >- [X] ProfileView - css 수정
@@ -106,6 +111,7 @@
 >[민주]
 >- [X] SearchView - URL 쿼리 처리 재수정
 >- [X] ReviewUDCard - 프론트, 백엔드
+>      
 >[연지]
 >- [X] HomeView - 검색창 작업
 >- [X] HomeView - 검색창 css 작업
@@ -115,6 +121,7 @@
 >- [X] DB - 초기 데이터 작업
 >- [X] MovieDetail - 예고편 링크 수정
 >- [X] HomeView - MovieCard css 작업 (정렬 수정)
+>      
 >[연지]
 >- [X] DB - 초기 데이터 작업
 >- [X] ReviewCard - css 작업
