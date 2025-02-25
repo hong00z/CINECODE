@@ -20,6 +20,9 @@
 ## ERD
 ![ERD](./images/ERD.png)
 
+## 컴포넌트 구조도
+![Component](./PPT/Component.png)
+
 ---
 
 ## 영화 추천 알고리즘
