@@ -4,7 +4,7 @@
 2024.11.17 ~ 2024.11.27
 
 ## 팀원
-#### 김민주 : (DB) 영화, 장르 데이터 로드 / (FE&BE) MovieDetail, Review CRUD, Navbar <br>
+#### 김민주 : (DB) 영화, 장르 데이터 로드 / (FE&BE) MovieDetail, Review CRUD, Navbar, Home <br>
 #### 최연지 : (FE&BE) Login, Signup, Profile, Home, Search, Speech Recognition
 
 ---
