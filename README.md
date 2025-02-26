@@ -34,10 +34,34 @@
 ---
 
 ## 핵심 기능
-- 영화 추천 알고리즘
-- 영화 리뷰 작성, 수정, 삭제
-- 영화 리뷰 조회
-- 영화 검색
+### 1. 로그인/회원가입
+ ![image](https://github.com/user-attachments/assets/8c4ff624-48a8-4e35-8046-e0ca2d40b54b)
+ ![image](https://github.com/user-attachments/assets/35390834-4ae3-4662-872b-e9178211ecd4)
+
+### 2. 메인화면
+ - 로그인 전
+   ![localhost_5173_movies_945961 (2)](https://github.com/user-attachments/assets/068bd630-d60e-4c66-b0a5-5139aba287e2)
+
+ - 로그인 후
+   ![localhost_5173_movies_945961 (1)](https://github.com/user-attachments/assets/694cd5de-ac45-4c8e-9adf-c592c0e384de)
+
+
+### 3. 영화 상세 화면
+  ![localhost_5173_movies_945961](https://github.com/user-attachments/assets/0bceedb5-4b6f-4e7a-9fa1-74ad6a5df230)
+  - 재생, 찜하기 상태 관리
+  - 리뷰 조회(최신순/좋아요순 정렬), 작성, 좋아요 버튼
+
+### 4. 마이페이지 화면
+  ![localhost_5173_](https://github.com/user-attachments/assets/fa59e707-32c0-46e2-b1fa-4ebe2a1b3d9c)
+  ![localhost_5173_ (1)](https://github.com/user-attachments/assets/96f7a581-8fd4-4f9a-be47-6376d4766eef)
+  ![localhost_5173_ (2)](https://github.com/user-attachments/assets/425a6e4a-259d-44e7-b697-18294a755fb0)
+  - 리뷰 수정, 삭제, 좋아요 관리
+  - 회원 정보 수정 (프로필 이미지, 닉네임, 이메일, 비밀번호 변경)
+
+### 5. 영화 추천 및 검색
+  ![localhost_5173_search](https://github.com/user-attachments/assets/f25e77ee-65d8-4616-9c5c-223f0448841e)
+  - 제목으로 검색
+  - 음성 인식으로 감정 분석 후 장르 기반으로 영화 추천 (화면 사진은 추후 업로드 예정)
 
 ---
 
