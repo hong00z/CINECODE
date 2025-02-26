@@ -21,7 +21,7 @@
 ![ERD](./images/ERD.png)
 
 ## 컴포넌트 구조도
-![Component](./PPT/Component.png)
+![Component](./images/Component.png)
 
 ---
 
