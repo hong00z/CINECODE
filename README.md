@@ -40,10 +40,12 @@
 
 ### 2. 메인화면
  - 로그인 전
-   ![localhost_5173_movies_945961 (2)](https://github.com/user-attachments/assets/068bd630-d60e-4c66-b0a5-5139aba287e2)
+   
+![localhost_5173_movies_945961 (2)](https://github.com/user-attachments/assets/068bd630-d60e-4c66-b0a5-5139aba287e2)
 
  - 로그인 후
-   ![localhost_5173_movies_945961 (1)](https://github.com/user-attachments/assets/694cd5de-ac45-4c8e-9adf-c592c0e384de)
+   
+![localhost_5173_movies_945961 (1)](https://github.com/user-attachments/assets/694cd5de-ac45-4c8e-9adf-c592c0e384de)
 
 
 ### 3. 영화 상세 화면
