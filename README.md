@@ -47,21 +47,21 @@
 
 
 ### 3. 영화 상세 화면
-  ![localhost_5173_movies_945961](https://github.com/user-attachments/assets/0bceedb5-4b6f-4e7a-9fa1-74ad6a5df230)
-  - 재생, 찜하기 상태 관리
-  - 리뷰 조회(최신순/좋아요순 정렬), 작성, 좋아요 버튼
+   ![localhost_5173_movies_945961](https://github.com/user-attachments/assets/34dde8e2-bd98-4d9b-accc-8374aca8212c)
+   - 재생, 찜하기 상태 관리
+   - 리뷰 조회(최신순/좋아요순 정렬), 작성, 좋아요 버튼
 
 ### 4. 마이페이지 화면
-  ![localhost_5173_](https://github.com/user-attachments/assets/fa59e707-32c0-46e2-b1fa-4ebe2a1b3d9c)
-  ![localhost_5173_ (1)](https://github.com/user-attachments/assets/96f7a581-8fd4-4f9a-be47-6376d4766eef)
-  ![localhost_5173_ (2)](https://github.com/user-attachments/assets/425a6e4a-259d-44e7-b697-18294a755fb0)
-  - 리뷰 수정, 삭제, 좋아요 관리
-  - 회원 정보 수정 (프로필 이미지, 닉네임, 이메일, 비밀번호 변경)
+   ![localhost_5173_](https://github.com/user-attachments/assets/fa59e707-32c0-46e2-b1fa-4ebe2a1b3d9c)
+   ![localhost_5173_ (1)](https://github.com/user-attachments/assets/96f7a581-8fd4-4f9a-be47-6376d4766eef)
+   ![localhost_5173_ (2)](https://github.com/user-attachments/assets/425a6e4a-259d-44e7-b697-18294a755fb0)
+   - 리뷰 수정, 삭제, 좋아요 관리
+   - 회원 정보 수정 (프로필 이미지, 닉네임, 이메일, 비밀번호 변경)
 
 ### 5. 영화 추천 및 검색
-  ![localhost_5173_search](https://github.com/user-attachments/assets/f25e77ee-65d8-4616-9c5c-223f0448841e)
-  - 제목으로 검색
-  - 음성 인식으로 감정 분석 후 장르 기반으로 영화 추천 (화면 사진은 추후 업로드 예정)
+   ![localhost_5173_search](https://github.com/user-attachments/assets/f25e77ee-65d8-4616-9c5c-223f0448841e)
+   - 제목으로 검색
+   - 음성 인식으로 감정 분석 후 장르 기반으로 영화 추천 (화면 사진은 추후 업로드 예정)
 
 ---
 
