@@ -1,11 +1,15 @@
-# CineCode-PJT
+# 🎬 CINECODE
 
-## 개발 기간
-2024.11.17 ~ 2024.11.27
+### Samsung Software Academy For Youth 12th - 관통 프로젝트
+#### 영화 추천 및 리뷰 관리 웹사이트
+
+> 2024.11.17 ~ 2024.11.27
+
+<br>
 
 ## 팀원
-#### 김민주 : (DB) 영화, 장르 데이터 로드 / (FE&BE) MovieDetail, Review CRUD, Navbar, Home <br>
-#### 최연지 : (FE&BE) Login, Signup, Profile, Home, Search, Speech Recognition
+#### 김민주 : (DB) 영화, 장르 데이터 생성 / (FE&BE) MovieDetail, Review CRUD, Navbar, Home <br>
+#### 최연지 : (FE&BE) Login·Signup, Profile, Home, Search, Speech Recognition
 
 ---
 
