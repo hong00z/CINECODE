@@ -1,6 +1,6 @@
 # 🎬 CINECODE
 
-### Samsung Software Academy For Youth 12th - 관통 프로젝트
+### Samsung SW·AI Academy For Youth 12th - 관통 프로젝트
 #### 영화 추천 및 리뷰 관리 웹사이트
 
 > 2024.11.17 ~ 2024.11.27
